@@ -1,0 +1,10 @@
+{
+ "name": "Beneath The Mask",
+ "description": "Persona 5 Royal",
+ "author": "Super-Nova",
+ "version": "v1.0",
+ "manifest_version": 2,
+ "music": true,
+ "ignore": [],
+ "mappings": {}
+}
